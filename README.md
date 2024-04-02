@@ -19,8 +19,8 @@ Let's connect and discuss how I can bring your vision to life!  Feel free to rea
 
 **Connect with me:**
 
-* [LinkedIn Profile URL](**[https://www.linkedin.com/in/john-kimati/]**)
-* [Twitter Profile URL](**[https://twitter.com/babjoniii]**)
+* **LinkedIn Profile URL:** [John Kimati](https://www.linkedin.com/in/john-kimati/)
+* **Twitter Profile URL:** [Babjoniii](https://twitter.com/babjoniii)
 
 <!--
 **babjonii/babjonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
