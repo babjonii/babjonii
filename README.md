@@ -8,7 +8,7 @@ I'm John, a passionate mobile app developer on a mission to **transform ideas in
 
 * **Industry Chameleon:** I thrive in diverse landscapes, from FinTech (Wese Platform & Tiger Loyalty) to e-commerce (EKozi & SeeBait), on-demand services (Lumbesa), and real estate (Kwanza Homes). This allows me to tailor solutions that seamlessly integrate with your specific business needs. 
 * **UX Whisperer:** User-centricity is my mantra. I design intuitive interfaces that keep users engaged and foster positive interactions with your app.  Every tap, swipe, and interaction should be a delight! ✨
-* **End-to-End Alchemist:**  Consider me your mobile app sherpa! From brainstorming to launch and beyond, I navigate the entire development journey – ideation, design, development, testing, deployment, and ongoing maintenance.  (If applicable, mention MISL here as your secret weapon!) 
+* **End-to-End Alchemist:**  Consider me your mobile app sherpa! From brainstorming to launch and beyond, I navigate the entire development journey – ideation, design, development, testing, deployment, and ongoing maintenance. 
 * **Proven Track Record:** My portfolio boasts a collection of successful mobile applications that have demonstrably improved user engagement, increased sales, and streamlined operations for clients.  These include the Wese Platform (Wakala & Dereva apps), Tiger Loyalty (Customer & Merchant apps), and white-labeled Wese solutions.  Let's see what magic we can create together! ✨
 
 **Ready to craft your next game-changing app?** 
